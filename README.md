@@ -130,12 +130,12 @@ Follow the steps below to set up and run the pplication using Docker. This setup
  1. Clone the repository:
 
 ```bash
-git clone https://github.com/mySanibot/interactive-multiagent.git
+git clone https://github.com/samugit83/AgentGraphMachine.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd interactive-multiagent
+cd AgentGraphMachine
 ```
 
 3. Build the Docker image:
